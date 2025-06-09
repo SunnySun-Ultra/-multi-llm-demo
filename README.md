@@ -1,7 +1,7 @@
 # multi-llm-demo
-A simple multi-agent dialogue simulator using Gemini and DeepSeek LLMs.
+A simple multi-agent dialogue simulator using Gemini and Qwen LLMs.
 
-一个简单的多智能体对话模拟器，基于 Google Gemini 和 DeepSeek 的大语言模型。
+一个简单的多智能体对话模拟器，基于 Google Gemini 和 Qwen 的大语言模型。
 
 # 项目简介
 项目旨在模拟多个智能体（Agent）围绕某一话题展开的对话流程。
