@@ -22,7 +22,7 @@ A simple multi-agent dialogue simulator using Gemini and DeepSeek LLMs.
 - 支持多种 LLM（如 Gemini、Qwen）  
 - 每个 Agent 拥有角色、性格和私有信息  
 - 根据上下文自动构造 prompt，生成轮流发言内容  
-- LLM 的种类和 Agent 拥有的 attribute 都可以自由更改，便于拓展实验和对话模拟  
+- LLM 的种类/ Agent的数量/ 对话的轮数/ Agent 拥有的 attribute 都可以自由更改，便于拓展实验和对话模拟  
 - 支持多轮对话，保留上下文历史，构建更连贯的多角色交流场景  
 
 ## 📦 环境依赖
